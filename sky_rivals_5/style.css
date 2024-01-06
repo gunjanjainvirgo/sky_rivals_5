@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+
+  canvas {
+    display: block;
+  }
+
+
+p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	color: #777;
+	display: block;
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.info {
+	margin: 14px auto;
+	text-align: justify;
+	font-size: 18px;
+	color: #999;
+}
+
+label {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #555;
+	display: block;
+}
+
+.customButton {
+	width:300px;
+	height:80px;
+	background-color: #fea834;
+	border: 3px solid white;
+	color: #FFFF;
+	font-weight:bold;
+	border-radius: 10px;
+	margin-bottom:100px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 19px;
+	font-family: vollkorn;
+	margin: 4px 2px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	outline: none;
+  }
+  
